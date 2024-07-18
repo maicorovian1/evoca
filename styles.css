@@ -57,7 +57,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 10px 20px;
-    background-color: #25d366; /* Cor do botão do WhatsApp */
+    background-color: #007e2e; /* Cor do botão do WhatsApp */
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -69,11 +69,11 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 10px 20px;
-    background-color: #031cad; /* Cor do botão do WhatsApp */
+    background-color: #000835; /* Cor do botão do WhatsApp */
     color: white;
     text-decoration: none;
     border-radius: 5px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 /* Media query para telas menores */
